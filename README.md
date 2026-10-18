@@ -142,9 +142,6 @@ The application works locally. A Render deployment has been created, but the tes
 
 Hosted availability and performance are still being evaluated.
 
-Render deployment URL:
-https://book-buddy-rag.onrender.com
-
 ## What I Learned
 
 - Building a complete retrieval-augmented generation workflow
