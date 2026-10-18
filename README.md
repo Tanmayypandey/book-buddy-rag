@@ -90,7 +90,7 @@ python -m pip install -r requirements.txt
 Create a `.env` file in the project root:
 
 ```dotenv
-GROQ_API_KEY=your_groq_api_key
+GROQ_API_KEY
 ```
 
 Never commit `.env` or API keys to GitHub.
